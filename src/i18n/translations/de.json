@@ -1,0 +1,107 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "prediction": "Vorhersage",
+    "analytics": "Analysen",
+    "history": "Verlauf",
+    "shop": "Shop",
+    "orders": "Bestellungen",
+    "contact": "Kontakt",
+    "admin": "Admin",
+    "login": "Anmelden",
+    "signup": "Registrieren",
+    "logout": "Abmelden"
+  },
+  "hero": {
+    "title": "Intelligente Landwirtschaft für eine",
+    "titleHighlight": "Bessere Zukunft",
+    "subtitle": "Nutzen Sie die Kraft von KI und Datenanalyse, um Ihre Ernteerträge zu optimieren, Ernten vorherzusagen und fundierte landwirtschaftliche Entscheidungen zu treffen.",
+    "getStarted": "Loslegen",
+    "learnMore": "Mehr Erfahren",
+    "trustedBy": "Vertraut von über 10.000 Landwirten in Indien"
+  },
+  "features": {
+    "title": "Warum AgroSmart wählen?",
+    "subtitle": "Leistungsstarke Werkzeuge, speziell für moderne Landwirte entwickelt",
+    "prediction": {
+      "title": "KI-Erntevorhersage",
+      "description": "Erhalten Sie genaue Vorhersagen für die besten Kulturen basierend auf Boden, Wetter und Marktbedingungen."
+    },
+    "analytics": {
+      "title": "Intelligente Analysen",
+      "description": "Visualisieren Sie Ihre Hofdaten mit intuitiven Diagrammen für bessere Entscheidungen."
+    },
+    "marketplace": {
+      "title": "Agrarmarktplatz",
+      "description": "Kaufen Sie Saatgut, Dünger und Ausrüstung zu wettbewerbsfähigen Preisen von vertrauenswürdigen Verkäufern."
+    },
+    "weather": {
+      "title": "Wetter-Einblicke",
+      "description": "Erhalten Sie hyperlokale Wettervorhersagen und Warnungen zum Schutz Ihrer Kulturen."
+    }
+  },
+  "stats": {
+    "farmers": "Aktive Landwirte",
+    "predictions": "Durchgeführte Vorhersagen",
+    "accuracy": "Genauigkeitsrate",
+    "states": "Abgedeckte Bundesstaaten"
+  },
+  "testimonials": {
+    "title": "Was Landwirte sagen",
+    "subtitle": "Echte Geschichten von Landwirten, die von AgroSmart profitiert haben"
+  },
+  "cta": {
+    "title": "Bereit, Ihren Hof zu transformieren?",
+    "subtitle": "Schließen Sie sich Tausenden von Landwirten an, die AgroSmart bereits nutzen, um ihre Erträge und Einkommen zu steigern.",
+    "button": "Kostenlos Testen"
+  },
+  "footer": {
+    "description": "Landwirte mit KI-gestützten Einblicken für intelligentere, nachhaltigere Landwirtschaft stärken.",
+    "product": "Produkt",
+    "company": "Unternehmen",
+    "support": "Support",
+    "legal": "Rechtliches",
+    "newsletter": "Newsletter",
+    "newsletterSubtitle": "Erhalten Sie Landwirtschaftstipps und Updates",
+    "emailPlaceholder": "E-Mail eingeben",
+    "subscribe": "Abonnieren",
+    "copyright": "© 2024 AgroSmart. Alle Rechte vorbehalten."
+  },
+  "shop": {
+    "title": "Agrar-Shop",
+    "subtitle": "Qualitätssaatgut, Dünger und Ausrüstung für Ihren Hof",
+    "searchPlaceholder": "Produkte suchen...",
+    "allCategories": "Alle Kategorien",
+    "addToCart": "In den Warenkorb",
+    "outOfStock": "Nicht Vorrätig",
+    "inStock": "Auf Lager"
+  },
+  "cart": {
+    "title": "Warenkorb",
+    "empty": "Ihr Warenkorb ist leer",
+    "continueShopping": "Weiter Einkaufen",
+    "total": "Gesamt",
+    "checkout": "Zur Kasse"
+  },
+  "chatbot": {
+    "title": "AgroSmart Assistent",
+    "placeholder": "Fragen Sie mich alles über Landwirtschaft...",
+    "send": "Senden",
+    "greeting": "Hallo! Ich bin Ihr AgroSmart-Assistent. Wie kann ich Ihnen heute helfen?"
+  },
+  "voice": {
+    "listening": "Höre zu...",
+    "speak": "Sagen Sie einen Befehl",
+    "commands": {
+      "goHome": "Zur Startseite",
+      "goShop": "Zum Shop",
+      "goPrediction": "Zur Vorhersage",
+      "goAnalytics": "Zu Analysen",
+      "goCart": "Zum Warenkorb",
+      "goContact": "Zum Kontakt"
+    }
+  },
+  "language": {
+    "select": "Sprache Wählen"
+  }
+}

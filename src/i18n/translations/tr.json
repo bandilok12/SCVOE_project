@@ -1,0 +1,79 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "prediction": "Mahsul Tahmini",
+    "analytics": "Analiz",
+    "history": "Geçmiş",
+    "shop": "Mağaza",
+    "orders": "Siparişlerim",
+    "contact": "İletişim",
+    "admin": "Yönetici",
+    "login": "Giriş Yap",
+    "signup": "Başla",
+    "logout": "Çıkış Yap",
+    "cart": "Sepet"
+  },
+  "hero": {
+    "badge": "Yapay Zeka Destekli Tarım",
+    "title": "Akıllı Tarım",
+    "titleHighlight": "Sürdürülebilir Gelecek",
+    "subtitle": "Yapay zeka destekli mahsul tahminleri, gerçek zamanlı analizler ve kaliteli tarım ürünlerine erişim—tek platformda.",
+    "getStarted": "Ücretsiz Başla",
+    "tryPrediction": "Tahmin Dene",
+    "scrollToExplore": "Keşfetmek için kaydır"
+  },
+  "features": {
+    "title": "İhtiyacınız Olan Her Şey",
+    "titleHighlight": "Akıllı Tarım",
+    "subtitle": "Tarımsal başarınızı en üst düzeye çıkarmak için kapsamlı araçlar"
+  },
+  "shop": {
+    "badge": "Tarım Pazarı",
+    "title": "Kaliteli Tarım Ürünleri",
+    "subtitle": "Premium tohumlar, gübreler, ekipmanlar ve daha fazlası—çiftliğinize teslim.",
+    "searchPlaceholder": "Ürün ara...",
+    "addToCart": "Sepete Ekle",
+    "outOfStock": "Stokta Yok"
+  },
+  "cart": {
+    "title": "Sepetiniz",
+    "empty": "Sepetiniz boş",
+    "total": "Toplam",
+    "checkout": "Ödeme Yap",
+    "remove": "Kaldır"
+  },
+  "chatbot": {
+    "title": "AgroSmart Asistan",
+    "online": "Çevrimiçi",
+    "placeholder": "Tarım hakkında bir şey sorun...",
+    "send": "Gönder",
+    "greeting": "Merhaba! Ben AgroSmart asistanıyım. Bugün tarım konusunda size nasıl yardımcı olabilirim?",
+    "error": "Üzgünüm, bir hata oluştu. Lütfen tekrar deneyin.",
+    "enableTts": "Sesi aç",
+    "disableTts": "Sesi kapat"
+  },
+  "voice": {
+    "title": "Sesli Asistan",
+    "listening": "Dinleniyor...",
+    "command": "Sesli Komut",
+    "navigating": "Yönlendiriliyor:",
+    "notRecognized": "Komut tanınmadı",
+    "tryAgain": "Deneyin: 'mağazaya git', 'sepete buğday tohumu ekle', veya 'gübre ara'",
+    "tryCommands": "Deneyin: 'mağazaya git', 'sepete ekle', 'ara...'",
+    "notSupported": "Desteklenmiyor",
+    "browserNotSupported": "Tarayıcınız ses tanımayı desteklemiyor",
+    "error": "Hata",
+    "errorMessage": "Ses tanıma başarısız. Lütfen tekrar deneyin.",
+    "success": "Başarılı",
+    "productNotFound": "Ürün bulunamadı: {{product}}",
+    "addedToCart": "{{product}} sepete eklendi",
+    "searchingFor": "{{query}} aranıyor"
+  },
+  "footer": {
+    "rights": "Tüm hakları saklıdır"
+  },
+  "language": {
+    "select": "Dil Seç",
+    "current": "Mevcut"
+  }
+}

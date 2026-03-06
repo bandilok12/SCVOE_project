@@ -1,0 +1,77 @@
+{
+  "nav": {
+    "home": "Hem",
+    "prediction": "Skördprognos",
+    "analytics": "Analys",
+    "shop": "Butik",
+    "cart": "Varukorg",
+    "orders": "Beställningar",
+    "contact": "Kontakt",
+    "login": "Logga in",
+    "logout": "Logga ut",
+    "getStarted": "Kom igång"
+  },
+  "hero": {
+    "title": "Framtidens Jordbruk med AI",
+    "subtitle": "Odla smartare och skörda mer med datadrivna insikter från AgroSmart",
+    "cta": "Börja Nu",
+    "learnMore": "Läs Mer"
+  },
+  "features": {
+    "title": "Smarta Jordbrukslösningar",
+    "prediction": "AI Skördprognos",
+    "predictionDesc": "Använd maskininlärning för att förutsäga optimala grödor",
+    "analytics": "Realtidsanalys",
+    "analyticsDesc": "Övervaka gårdens prestanda med detaljerad analys",
+    "marketplace": "Jordbruksmarknad",
+    "marketplaceDesc": "Köp kvalitetsfrön och material"
+  },
+  "shop": {
+    "title": "Jordbruksbutik",
+    "addToCart": "Lägg i Varukorgen",
+    "outOfStock": "Slut i Lager",
+    "categories": "Kategorier",
+    "all": "Alla"
+  },
+  "cart": {
+    "title": "Din Varukorg",
+    "empty": "Din varukorg är tom",
+    "total": "Totalt",
+    "checkout": "Till Kassan",
+    "remove": "Ta bort"
+  },
+  "prediction": {
+    "title": "Skördprognos",
+    "analyze": "Analysera",
+    "result": "Rekommenderad Gröda",
+    "confidence": "Säkerhet"
+  },
+  "contact": {
+    "title": "Kontakta Oss",
+    "name": "Namn",
+    "email": "E-post",
+    "message": "Meddelande",
+    "send": "Skicka Meddelande"
+  },
+  "voice": {
+    "title": "Röstassistent",
+    "listening": "Lyssnar...",
+    "command": "Röstkommando",
+    "navigating": "Navigerar till:",
+    "notRecognized": "Kommando ej igenkänt",
+    "tryAgain": "Försök säga: \"Gå till butik\" eller \"Öppna varukorg\"",
+    "notSupported": "Röst stöds ej",
+    "browserNotSupported": "Din webbläsare stöder inte röstigenkänning",
+    "error": "Fel",
+    "errorMessage": "Röstigenkänning misslyckades. Försök igen."
+  },
+  "chatbot": {
+    "title": "AgroSmart Assistent",
+    "placeholder": "Fråga vad som helst om jordbruk...",
+    "send": "Skicka",
+    "greeting": "Hej! Jag är AgroSmart-assistenten. Hur kan jag hjälpa dig med jordbruk idag?"
+  },
+  "footer": {
+    "rights": "Alla rättigheter förbehållna"
+  }
+}

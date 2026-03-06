@@ -1,0 +1,99 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "prediction": "Predicción de Cultivos",
+    "analytics": "Análisis",
+    "history": "Historial",
+    "shop": "Tienda",
+    "orders": "Mis Pedidos",
+    "contact": "Contacto",
+    "admin": "Admin",
+    "login": "Iniciar Sesión",
+    "signup": "Comenzar",
+    "logout": "Cerrar Sesión",
+    "cart": "Carrito"
+  },
+  "hero": {
+    "badge": "Agricultura con IA",
+    "title": "Agricultura Inteligente para un",
+    "titleHighlight": "Futuro Sostenible",
+    "subtitle": "Aprovecha las predicciones de cultivos con IA, análisis en tiempo real y acceso a productos agrícolas de calidad—todo en una plataforma.",
+    "getStarted": "Comenzar Gratis",
+    "tryPrediction": "Probar Predicción",
+    "scrollToExplore": "Desplaza para explorar"
+  },
+  "features": {
+    "title": "Todo lo que Necesitas para",
+    "titleHighlight": "Agricultura Inteligente",
+    "subtitle": "Herramientas completas para maximizar tu éxito agrícola",
+    "aiPrediction": "Predicción con IA",
+    "aiPredictionDesc": "Obtén recomendaciones precisas basadas en condiciones del suelo, clima y datos históricos.",
+    "analytics": "Análisis Power BI",
+    "analyticsDesc": "Visualiza tendencias, precios de mercado y patrones de rendimiento con dashboards interactivos.",
+    "ecommerce": "E-Commerce Agrícola",
+    "ecommerceDesc": "Compra semillas, fertilizantes, equipos y más a precios competitivos."
+  },
+  "shop": {
+    "badge": "Mercado Agrícola",
+    "title": "Compra Productos Agrícolas de Calidad",
+    "subtitle": "Semillas premium, fertilizantes, equipos y más—entregados a tu granja.",
+    "searchPlaceholder": "Buscar productos...",
+    "allCategories": "Todos",
+    "showing": "Mostrando",
+    "products": "productos",
+    "noProducts": "No se encontraron productos",
+    "adjustFilters": "Intenta ajustar tu búsqueda o filtros",
+    "addToCart": "Añadir al Carrito",
+    "outOfStock": "Agotado"
+  },
+  "cart": {
+    "title": "Carrito de Compras",
+    "empty": "Tu carrito está vacío",
+    "total": "Total",
+    "checkout": "Proceder al Pago",
+    "remove": "Eliminar"
+  },
+  "chatbot": {
+    "title": "Asistente AgroSmart",
+    "online": "En línea",
+    "placeholder": "Pregúntame sobre agricultura...",
+    "send": "Enviar",
+    "greeting": "¡Hola! Soy tu asistente AgroSmart. ¿Cómo puedo ayudarte hoy con tus necesidades agrícolas?",
+    "error": "Lo siento, ocurrió un error. Por favor intenta de nuevo.",
+    "enableTts": "Activar voz",
+    "disableTts": "Desactivar voz"
+  },
+  "voice": {
+    "title": "Asistente de Voz",
+    "listening": "Escuchando...",
+    "command": "Comando de Voz",
+    "navigating": "Navegando a",
+    "notRecognized": "Comando no reconocido",
+    "tryAgain": "Prueba: 'ir a tienda', 'añadir semillas al carrito', o 'buscar fertilizante'",
+    "tryCommands": "Prueba: 'ir a tienda', 'añadir al carrito', 'buscar...'",
+    "notSupported": "No Soportado",
+    "browserNotSupported": "Tu navegador no soporta reconocimiento de voz",
+    "error": "Error",
+    "errorMessage": "Reconocimiento de voz falló. Por favor intenta de nuevo.",
+    "success": "Éxito",
+    "productNotFound": "No se encontró: {{product}}",
+    "addedToCart": "{{product}} añadido al carrito",
+    "searchingFor": "Buscando {{query}}"
+  },
+  "footer": {
+    "description": "Empoderando a los agricultores con insights impulsados por IA.",
+    "copyright": "© 2024 AgroSmart. Todos los derechos reservados.",
+    "newsletter": "Boletín",
+    "newsletterSubtitle": "Recibe consejos y actualizaciones",
+    "emailPlaceholder": "Ingresa tu email",
+    "subscribe": "Suscribirse"
+  },
+  "language": {
+    "select": "Seleccionar Idioma",
+    "current": "Actual"
+  },
+  "benefits": {
+    "title": "¿Por qué elegir",
+    "titleHighlight": "AgroSmart"
+  }
+}

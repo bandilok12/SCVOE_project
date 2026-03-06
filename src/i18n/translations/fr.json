@@ -1,0 +1,99 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "prediction": "Prédiction de Cultures",
+    "analytics": "Analyses",
+    "history": "Historique",
+    "shop": "Boutique",
+    "orders": "Mes Commandes",
+    "contact": "Contact",
+    "admin": "Admin",
+    "login": "Connexion",
+    "signup": "Commencer",
+    "logout": "Déconnexion",
+    "cart": "Panier"
+  },
+  "hero": {
+    "badge": "Agriculture IA",
+    "title": "Agriculture Intelligente pour un",
+    "titleHighlight": "Avenir Durable",
+    "subtitle": "Exploitez les prédictions de cultures par IA, les analyses en temps réel et l'accès à des produits agricoles de qualité—tout en une plateforme.",
+    "getStarted": "Commencer Gratuitement",
+    "tryPrediction": "Essayer la Prédiction",
+    "scrollToExplore": "Défiler pour explorer"
+  },
+  "features": {
+    "title": "Tout ce dont vous avez besoin pour",
+    "titleHighlight": "l'Agriculture Intelligente",
+    "subtitle": "Outils complets pour maximiser votre succès agricole",
+    "aiPrediction": "Prédiction IA",
+    "aiPredictionDesc": "Obtenez des recommandations précises basées sur les conditions du sol, la météo et les données historiques.",
+    "analytics": "Analyses Power BI",
+    "analyticsDesc": "Visualisez les tendances, les prix du marché et les modèles de rendement avec des tableaux de bord interactifs.",
+    "ecommerce": "E-Commerce Agricole",
+    "ecommerceDesc": "Achetez des semences, engrais, équipements et plus à prix compétitifs."
+  },
+  "shop": {
+    "badge": "Marché Agricole",
+    "title": "Achetez des Produits Agricoles de Qualité",
+    "subtitle": "Semences premium, engrais, équipements et plus—livrés à votre ferme.",
+    "searchPlaceholder": "Rechercher des produits...",
+    "allCategories": "Tous",
+    "showing": "Affichage de",
+    "products": "produits",
+    "noProducts": "Aucun produit trouvé",
+    "adjustFilters": "Essayez d'ajuster vos critères de recherche",
+    "addToCart": "Ajouter au Panier",
+    "outOfStock": "Rupture de Stock"
+  },
+  "cart": {
+    "title": "Panier d'Achats",
+    "empty": "Votre panier est vide",
+    "total": "Total",
+    "checkout": "Passer à la Caisse",
+    "remove": "Supprimer"
+  },
+  "chatbot": {
+    "title": "Assistant AgroSmart",
+    "online": "En ligne",
+    "placeholder": "Posez-moi une question sur l'agriculture...",
+    "send": "Envoyer",
+    "greeting": "Bonjour! Je suis votre assistant AgroSmart. Comment puis-je vous aider aujourd'hui avec vos besoins agricoles?",
+    "error": "Désolé, une erreur s'est produite. Veuillez réessayer.",
+    "enableTts": "Activer la voix",
+    "disableTts": "Désactiver la voix"
+  },
+  "voice": {
+    "title": "Assistant Vocal",
+    "listening": "Écoute...",
+    "command": "Commande Vocale",
+    "navigating": "Navigation vers",
+    "notRecognized": "Commande non reconnue",
+    "tryAgain": "Essayez: 'aller à la boutique', 'ajouter des graines au panier', ou 'chercher engrais'",
+    "tryCommands": "Essayez: 'aller à boutique', 'ajouter au panier', 'chercher...'",
+    "notSupported": "Non Supporté",
+    "browserNotSupported": "Votre navigateur ne supporte pas la reconnaissance vocale",
+    "error": "Erreur",
+    "errorMessage": "La reconnaissance vocale a échoué. Veuillez réessayer.",
+    "success": "Succès",
+    "productNotFound": "Produit non trouvé: {{product}}",
+    "addedToCart": "{{product}} ajouté au panier",
+    "searchingFor": "Recherche de {{query}}"
+  },
+  "footer": {
+    "description": "Autonomiser les agriculteurs avec des insights alimentés par l'IA.",
+    "copyright": "© 2024 AgroSmart. Tous droits réservés.",
+    "newsletter": "Newsletter",
+    "newsletterSubtitle": "Recevez des conseils et mises à jour",
+    "emailPlaceholder": "Entrez votre email",
+    "subscribe": "S'abonner"
+  },
+  "language": {
+    "select": "Choisir la Langue",
+    "current": "Actuel"
+  },
+  "benefits": {
+    "title": "Pourquoi choisir",
+    "titleHighlight": "AgroSmart"
+  }
+}

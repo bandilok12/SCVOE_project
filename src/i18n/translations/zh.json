@@ -1,0 +1,99 @@
+{
+  "nav": {
+    "home": "首页",
+    "prediction": "作物预测",
+    "analytics": "分析",
+    "history": "历史",
+    "shop": "商店",
+    "orders": "我的订单",
+    "contact": "联系我们",
+    "admin": "管理",
+    "login": "登录",
+    "signup": "开始使用",
+    "logout": "退出",
+    "cart": "购物车"
+  },
+  "hero": {
+    "badge": "AI驱动农业",
+    "title": "智慧农业",
+    "titleHighlight": "可持续未来",
+    "subtitle": "利用AI驱动的作物预测、实时分析和优质农产品访问——尽在一个平台。",
+    "getStarted": "免费开始",
+    "tryPrediction": "试用预测",
+    "scrollToExplore": "滚动探索"
+  },
+  "features": {
+    "title": "智慧农业所需的",
+    "titleHighlight": "一切",
+    "subtitle": "全面的工具和资源，助您农业成功最大化",
+    "aiPrediction": "AI作物预测",
+    "aiPredictionDesc": "根据土壤条件、天气和历史数据获得准确的作物建议。",
+    "analytics": "Power BI分析",
+    "analyticsDesc": "通过交互式仪表板可视化趋势、市场价格和产量模式。",
+    "ecommerce": "农业电商",
+    "ecommerceDesc": "以有竞争力的价格购买优质种子、肥料、设备等。"
+  },
+  "shop": {
+    "badge": "农业市场",
+    "title": "购买优质农产品",
+    "subtitle": "优质种子、肥料、设备等——直送您的农场。",
+    "searchPlaceholder": "搜索产品...",
+    "allCategories": "全部",
+    "showing": "显示",
+    "products": "个产品",
+    "noProducts": "未找到产品",
+    "adjustFilters": "请调整您的搜索或筛选条件",
+    "addToCart": "加入购物车",
+    "outOfStock": "缺货"
+  },
+  "cart": {
+    "title": "购物车",
+    "empty": "您的购物车是空的",
+    "total": "总计",
+    "checkout": "结账",
+    "remove": "移除"
+  },
+  "chatbot": {
+    "title": "AgroSmart助手",
+    "online": "在线",
+    "placeholder": "询问有关农业的任何问题...",
+    "send": "发送",
+    "greeting": "您好！我是您的AgroSmart助手。今天我能如何帮助您的农业需求？",
+    "error": "抱歉，发生错误。请重试。",
+    "enableTts": "开启语音",
+    "disableTts": "关闭语音"
+  },
+  "voice": {
+    "title": "语音助手",
+    "listening": "正在听...",
+    "command": "语音命令",
+    "navigating": "正在导航到",
+    "notRecognized": "命令未识别",
+    "tryAgain": "试试：'去商店'、'加小麦种子到购物车'或'搜索肥料'",
+    "tryCommands": "试试：'去商店'、'加入购物车'、'搜索...'",
+    "notSupported": "不支持",
+    "browserNotSupported": "您的浏览器不支持语音识别",
+    "error": "错误",
+    "errorMessage": "语音识别失败。请重试。",
+    "success": "成功",
+    "productNotFound": "未找到产品：{{product}}",
+    "addedToCart": "{{product}}已加入购物车",
+    "searchingFor": "正在搜索{{query}}"
+  },
+  "footer": {
+    "description": "用AI驱动的洞察赋能农民。",
+    "copyright": "© 2024 AgroSmart. 保留所有权利。",
+    "newsletter": "通讯",
+    "newsletterSubtitle": "获取农业技巧和更新",
+    "emailPlaceholder": "输入您的邮箱",
+    "subscribe": "订阅"
+  },
+  "language": {
+    "select": "选择语言",
+    "current": "当前"
+  },
+  "benefits": {
+    "title": "为什么选择",
+    "titleHighlight": "AgroSmart"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "nav": {
+    "home": "Strona główna",
+    "prediction": "Prognoza Upraw",
+    "analytics": "Analityka",
+    "shop": "Sklep",
+    "cart": "Koszyk",
+    "orders": "Zamówienia",
+    "contact": "Kontakt",
+    "login": "Zaloguj się",
+    "logout": "Wyloguj się",
+    "getStarted": "Rozpocznij"
+  },
+  "hero": {
+    "title": "Przyszłość Rolnictwa z AI",
+    "subtitle": "Uprawiaj mądrzej i zbieraj więcej dzięki analizom opartym na danych od AgroSmart",
+    "cta": "Zacznij Teraz",
+    "learnMore": "Dowiedz się więcej"
+  },
+  "features": {
+    "title": "Inteligentne Rozwiązania Rolnicze",
+    "prediction": "Prognoza Upraw AI",
+    "predictionDesc": "Użyj uczenia maszynowego do przewidywania optymalnych upraw",
+    "analytics": "Analityka w Czasie Rzeczywistym",
+    "analyticsDesc": "Monitoruj wydajność gospodarstwa dzięki szczegółowym analizom",
+    "marketplace": "Rynek Rolniczy",
+    "marketplaceDesc": "Kupuj wysokiej jakości nasiona i materiały"
+  },
+  "shop": {
+    "title": "Sklep Rolniczy",
+    "addToCart": "Dodaj do Koszyka",
+    "outOfStock": "Brak w Magazynie",
+    "categories": "Kategorie",
+    "all": "Wszystko"
+  },
+  "cart": {
+    "title": "Twój Koszyk",
+    "empty": "Twój koszyk jest pusty",
+    "total": "Suma",
+    "checkout": "Przejdź do Kasy",
+    "remove": "Usuń"
+  },
+  "prediction": {
+    "title": "Prognoza Upraw",
+    "analyze": "Analizuj",
+    "result": "Zalecana Uprawa",
+    "confidence": "Pewność"
+  },
+  "contact": {
+    "title": "Skontaktuj się z Nami",
+    "name": "Imię",
+    "email": "Email",
+    "message": "Wiadomość",
+    "send": "Wyślij Wiadomość"
+  },
+  "voice": {
+    "title": "Asystent Głosowy",
+    "listening": "Słucham...",
+    "command": "Polecenie Głosowe",
+    "navigating": "Przechodzę do:",
+    "notRecognized": "Polecenie nierozpoznane",
+    "tryAgain": "Spróbuj powiedzieć: \"Idź do sklepu\" lub \"Otwórz koszyk\"",
+    "notSupported": "Głos nieobsługiwany",
+    "browserNotSupported": "Twoja przeglądarka nie obsługuje rozpoznawania głosu",
+    "error": "Błąd",
+    "errorMessage": "Rozpoznawanie głosu nie powiodło się. Spróbuj ponownie."
+  },
+  "chatbot": {
+    "title": "Asystent AgroSmart",
+    "placeholder": "Zapytaj o cokolwiek związanego z rolnictwem...",
+    "send": "Wyślij",
+    "greeting": "Cześć! Jestem asystentem AgroSmart. Jak mogę ci dziś pomóc w sprawach rolniczych?"
+  },
+  "footer": {
+    "rights": "Wszelkie prawa zastrzeżone"
+  }
+}

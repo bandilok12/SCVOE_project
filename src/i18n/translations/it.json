@@ -1,0 +1,77 @@
+{
+  "nav": {
+    "home": "Home",
+    "prediction": "Previsione Raccolto",
+    "analytics": "Analisi",
+    "shop": "Negozio",
+    "cart": "Carrello",
+    "orders": "Ordini",
+    "contact": "Contatti",
+    "login": "Accedi",
+    "logout": "Esci",
+    "getStarted": "Inizia"
+  },
+  "hero": {
+    "title": "Il Futuro dell'Agricoltura con l'IA",
+    "subtitle": "Coltiva in modo più intelligente e raccogli di più con intuizioni basate sui dati di AgroSmart",
+    "cta": "Inizia Ora",
+    "learnMore": "Scopri di Più"
+  },
+  "features": {
+    "title": "Soluzioni per l'Agricoltura Intelligente",
+    "prediction": "Previsione Raccolto IA",
+    "predictionDesc": "Usa il machine learning per prevedere i raccolti ottimali",
+    "analytics": "Analisi in Tempo Reale",
+    "analyticsDesc": "Monitora le prestazioni della tua fattoria con analisi dettagliate",
+    "marketplace": "Mercato Agricolo",
+    "marketplaceDesc": "Acquista semi e forniture di qualità"
+  },
+  "shop": {
+    "title": "Negozio Agricolo",
+    "addToCart": "Aggiungi al Carrello",
+    "outOfStock": "Esaurito",
+    "categories": "Categorie",
+    "all": "Tutto"
+  },
+  "cart": {
+    "title": "Il Tuo Carrello",
+    "empty": "Il tuo carrello è vuoto",
+    "total": "Totale",
+    "checkout": "Procedi al Checkout",
+    "remove": "Rimuovi"
+  },
+  "prediction": {
+    "title": "Previsione Raccolto",
+    "analyze": "Analizza",
+    "result": "Raccolto Consigliato",
+    "confidence": "Confidenza"
+  },
+  "contact": {
+    "title": "Contattaci",
+    "name": "Nome",
+    "email": "Email",
+    "message": "Messaggio",
+    "send": "Invia Messaggio"
+  },
+  "voice": {
+    "title": "Assistente Vocale",
+    "listening": "In ascolto...",
+    "command": "Comando Vocale",
+    "navigating": "Navigazione verso:",
+    "notRecognized": "Comando non riconosciuto",
+    "tryAgain": "Prova a dire: \"Vai al negozio\" o \"Apri carrello\"",
+    "notSupported": "Voce non supportata",
+    "browserNotSupported": "Il tuo browser non supporta il riconoscimento vocale",
+    "error": "Errore",
+    "errorMessage": "Riconoscimento vocale fallito. Riprova."
+  },
+  "chatbot": {
+    "title": "Assistente AgroSmart",
+    "placeholder": "Chiedi qualsiasi cosa sull'agricoltura...",
+    "send": "Invia",
+    "greeting": "Ciao! Sono l'assistente AgroSmart. Come posso aiutarti con l'agricoltura oggi?"
+  },
+  "footer": {
+    "rights": "Tutti i diritti riservati"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "nav": {
+    "home": "홈",
+    "prediction": "작물 예측",
+    "analytics": "분석",
+    "shop": "상점",
+    "cart": "장바구니",
+    "orders": "주문",
+    "contact": "연락처",
+    "login": "로그인",
+    "logout": "로그아웃",
+    "getStarted": "시작하기"
+  },
+  "hero": {
+    "title": "AI로 농업의 미래를",
+    "subtitle": "AgroSmart와 함께 데이터 기반 통찰력으로 더 스마트하게 농사짓고 더 많이 수확하세요",
+    "cta": "지금 시작",
+    "learnMore": "더 알아보기"
+  },
+  "features": {
+    "title": "스마트 농업 솔루션",
+    "prediction": "AI 작물 예측",
+    "predictionDesc": "기계 학습을 사용하여 최적의 작물을 예측합니다",
+    "analytics": "실시간 분석",
+    "analyticsDesc": "자세한 분석으로 농장 성과를 모니터링합니다",
+    "marketplace": "농업 마켓플레이스",
+    "marketplaceDesc": "품질 좋은 씨앗과 공급품을 구매합니다"
+  },
+  "shop": {
+    "title": "농업 상점",
+    "addToCart": "장바구니에 추가",
+    "outOfStock": "품절",
+    "categories": "카테고리",
+    "all": "전체"
+  },
+  "cart": {
+    "title": "장바구니",
+    "empty": "장바구니가 비어 있습니다",
+    "total": "합계",
+    "checkout": "결제하기",
+    "remove": "제거"
+  },
+  "prediction": {
+    "title": "작물 예측",
+    "analyze": "분석",
+    "result": "추천 작물",
+    "confidence": "신뢰도"
+  },
+  "contact": {
+    "title": "연락처",
+    "name": "이름",
+    "email": "이메일",
+    "message": "메시지",
+    "send": "메시지 보내기"
+  },
+  "voice": {
+    "title": "음성 어시스턴트",
+    "listening": "듣는 중...",
+    "command": "음성 명령",
+    "navigating": "이동 중:",
+    "notRecognized": "명령을 인식하지 못했습니다",
+    "tryAgain": "\"상점으로 이동\" 또는 \"장바구니 열기\"라고 말해보세요",
+    "notSupported": "음성이 지원되지 않음",
+    "browserNotSupported": "브라우저가 음성 인식을 지원하지 않습니다",
+    "error": "오류",
+    "errorMessage": "음성 인식에 실패했습니다. 다시 시도해주세요."
+  },
+  "chatbot": {
+    "title": "AgroSmart 어시스턴트",
+    "placeholder": "농업에 대해 무엇이든 물어보세요...",
+    "send": "보내기",
+    "greeting": "안녕하세요! 저는 AgroSmart 어시스턴트입니다. 농업에 대해 어떻게 도와드릴까요?"
+  },
+  "footer": {
+    "rights": "모든 권리 보유"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "nav": {
+    "home": "Home",
+    "prediction": "Gewasvoorspelling",
+    "analytics": "Analyse",
+    "shop": "Winkel",
+    "cart": "Winkelwagen",
+    "orders": "Bestellingen",
+    "contact": "Contact",
+    "login": "Inloggen",
+    "logout": "Uitloggen",
+    "getStarted": "Aan de slag"
+  },
+  "hero": {
+    "title": "De Toekomst van Landbouw met AI",
+    "subtitle": "Boer slimmer en oogst meer met data-gedreven inzichten van AgroSmart",
+    "cta": "Nu Beginnen",
+    "learnMore": "Meer Info"
+  },
+  "features": {
+    "title": "Slimme Landbouwoplossingen",
+    "prediction": "AI Gewasvoorspelling",
+    "predictionDesc": "Gebruik machine learning om optimale gewassen te voorspellen",
+    "analytics": "Realtime Analyse",
+    "analyticsDesc": "Monitor uw boerderijprestaties met gedetailleerde analyses",
+    "marketplace": "Landbouwmarkt",
+    "marketplaceDesc": "Koop kwaliteitszaden en benodigdheden"
+  },
+  "shop": {
+    "title": "Landbouwwinkel",
+    "addToCart": "Toevoegen aan Winkelwagen",
+    "outOfStock": "Niet op Voorraad",
+    "categories": "Categorieën",
+    "all": "Alles"
+  },
+  "cart": {
+    "title": "Uw Winkelwagen",
+    "empty": "Uw winkelwagen is leeg",
+    "total": "Totaal",
+    "checkout": "Afrekenen",
+    "remove": "Verwijderen"
+  },
+  "prediction": {
+    "title": "Gewasvoorspelling",
+    "analyze": "Analyseren",
+    "result": "Aanbevolen Gewas",
+    "confidence": "Betrouwbaarheid"
+  },
+  "contact": {
+    "title": "Contact",
+    "name": "Naam",
+    "email": "E-mail",
+    "message": "Bericht",
+    "send": "Verstuur Bericht"
+  },
+  "voice": {
+    "title": "Spraakassistent",
+    "listening": "Luisteren...",
+    "command": "Spraakopdracht",
+    "navigating": "Navigeren naar:",
+    "notRecognized": "Opdracht niet herkend",
+    "tryAgain": "Probeer: \"Ga naar winkel\" of \"Open winkelwagen\"",
+    "notSupported": "Spraak niet ondersteund",
+    "browserNotSupported": "Uw browser ondersteunt geen spraakherkenning",
+    "error": "Fout",
+    "errorMessage": "Spraakherkenning mislukt. Probeer opnieuw."
+  },
+  "chatbot": {
+    "title": "AgroSmart Assistent",
+    "placeholder": "Vraag alles over landbouw...",
+    "send": "Verzenden",
+    "greeting": "Hallo! Ik ben de AgroSmart assistent. Hoe kan ik u vandaag helpen met landbouw?"
+  },
+  "footer": {
+    "rights": "Alle rechten voorbehouden"
+  }
+}

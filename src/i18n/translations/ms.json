@@ -1,0 +1,77 @@
+{
+  "nav": {
+    "home": "Laman Utama",
+    "prediction": "Ramalan Tanaman",
+    "analytics": "Analitik",
+    "shop": "Kedai",
+    "cart": "Troli",
+    "orders": "Pesanan",
+    "contact": "Hubungi",
+    "login": "Log Masuk",
+    "logout": "Log Keluar",
+    "getStarted": "Mula"
+  },
+  "hero": {
+    "title": "Masa Depan Pertanian dengan AI",
+    "subtitle": "Bertani dengan lebih bijak dan menuai lebih banyak dengan pandangan berdasarkan data dari AgroSmart",
+    "cta": "Mula Sekarang",
+    "learnMore": "Ketahui Lebih Lanjut"
+  },
+  "features": {
+    "title": "Penyelesaian Pertanian Pintar",
+    "prediction": "Ramalan Tanaman AI",
+    "predictionDesc": "Gunakan pembelajaran mesin untuk meramal tanaman optimum",
+    "analytics": "Analitik Masa Nyata",
+    "analyticsDesc": "Pantau prestasi ladang anda dengan analitik terperinci",
+    "marketplace": "Pasaran Pertanian",
+    "marketplaceDesc": "Beli benih dan bekalan berkualiti"
+  },
+  "shop": {
+    "title": "Kedai Pertanian",
+    "addToCart": "Tambah ke Troli",
+    "outOfStock": "Kehabisan Stok",
+    "categories": "Kategori",
+    "all": "Semua"
+  },
+  "cart": {
+    "title": "Troli Anda",
+    "empty": "Troli anda kosong",
+    "total": "Jumlah",
+    "checkout": "Daftar Keluar",
+    "remove": "Buang"
+  },
+  "prediction": {
+    "title": "Ramalan Tanaman",
+    "analyze": "Analisis",
+    "result": "Tanaman Disyorkan",
+    "confidence": "Keyakinan"
+  },
+  "contact": {
+    "title": "Hubungi Kami",
+    "name": "Nama",
+    "email": "Emel",
+    "message": "Mesej",
+    "send": "Hantar Mesej"
+  },
+  "voice": {
+    "title": "Pembantu Suara",
+    "listening": "Mendengar...",
+    "command": "Arahan Suara",
+    "navigating": "Navigasi ke:",
+    "notRecognized": "Arahan tidak dikenali",
+    "tryAgain": "Cuba sebut: \"Pergi ke kedai\" atau \"Buka troli\"",
+    "notSupported": "Suara tidak disokong",
+    "browserNotSupported": "Pelayar anda tidak menyokong pengecaman suara",
+    "error": "Ralat",
+    "errorMessage": "Pengecaman suara gagal. Sila cuba lagi."
+  },
+  "chatbot": {
+    "title": "Pembantu AgroSmart",
+    "placeholder": "Tanya apa sahaja tentang pertanian...",
+    "send": "Hantar",
+    "greeting": "Hai! Saya pembantu AgroSmart. Bagaimana saya boleh membantu anda dengan pertanian hari ini?"
+  },
+  "footer": {
+    "rights": "Hak cipta terpelihara"
+  }
+}

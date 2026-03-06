@@ -1,0 +1,77 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "prediction": "Dự đoán Cây trồng",
+    "analytics": "Phân tích",
+    "shop": "Cửa hàng",
+    "cart": "Giỏ hàng",
+    "orders": "Đơn hàng",
+    "contact": "Liên hệ",
+    "login": "Đăng nhập",
+    "logout": "Đăng xuất",
+    "getStarted": "Bắt đầu"
+  },
+  "hero": {
+    "title": "Tương lai Nông nghiệp với AI",
+    "subtitle": "Canh tác thông minh hơn và thu hoạch nhiều hơn với thông tin chi tiết dựa trên dữ liệu từ AgroSmart",
+    "cta": "Bắt đầu ngay",
+    "learnMore": "Tìm hiểu thêm"
+  },
+  "features": {
+    "title": "Giải pháp Nông nghiệp Thông minh",
+    "prediction": "Dự đoán Cây trồng AI",
+    "predictionDesc": "Sử dụng học máy để dự đoán cây trồng tối ưu",
+    "analytics": "Phân tích Thời gian thực",
+    "analyticsDesc": "Theo dõi hiệu suất trang trại với phân tích chi tiết",
+    "marketplace": "Chợ Nông nghiệp",
+    "marketplaceDesc": "Mua hạt giống và vật tư chất lượng"
+  },
+  "shop": {
+    "title": "Cửa hàng Nông nghiệp",
+    "addToCart": "Thêm vào giỏ",
+    "outOfStock": "Hết hàng",
+    "categories": "Danh mục",
+    "all": "Tất cả"
+  },
+  "cart": {
+    "title": "Giỏ hàng của bạn",
+    "empty": "Giỏ hàng của bạn trống",
+    "total": "Tổng cộng",
+    "checkout": "Thanh toán",
+    "remove": "Xóa"
+  },
+  "prediction": {
+    "title": "Dự đoán Cây trồng",
+    "analyze": "Phân tích",
+    "result": "Cây trồng Đề xuất",
+    "confidence": "Độ tin cậy"
+  },
+  "contact": {
+    "title": "Liên hệ chúng tôi",
+    "name": "Tên",
+    "email": "Email",
+    "message": "Tin nhắn",
+    "send": "Gửi tin nhắn"
+  },
+  "voice": {
+    "title": "Trợ lý Giọng nói",
+    "listening": "Đang nghe...",
+    "command": "Lệnh Giọng nói",
+    "navigating": "Đang điều hướng đến:",
+    "notRecognized": "Không nhận dạng được lệnh",
+    "tryAgain": "Thử nói: \"Đến cửa hàng\" hoặc \"Mở giỏ hàng\"",
+    "notSupported": "Giọng nói không được hỗ trợ",
+    "browserNotSupported": "Trình duyệt của bạn không hỗ trợ nhận dạng giọng nói",
+    "error": "Lỗi",
+    "errorMessage": "Nhận dạng giọng nói thất bại. Vui lòng thử lại."
+  },
+  "chatbot": {
+    "title": "Trợ lý AgroSmart",
+    "placeholder": "Hỏi bất cứ điều gì về nông nghiệp...",
+    "send": "Gửi",
+    "greeting": "Xin chào! Tôi là trợ lý AgroSmart. Hôm nay tôi có thể giúp gì cho bạn về nông nghiệp?"
+  },
+  "footer": {
+    "rights": "Đã đăng ký bản quyền"
+  }
+}

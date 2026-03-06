@@ -1,0 +1,107 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "prediction": "予測",
+    "analytics": "分析",
+    "history": "履歴",
+    "shop": "ショップ",
+    "orders": "注文",
+    "contact": "お問い合わせ",
+    "admin": "管理者",
+    "login": "ログイン",
+    "signup": "登録",
+    "logout": "ログアウト"
+  },
+  "hero": {
+    "title": "より良い明日のための",
+    "titleHighlight": "スマート農業",
+    "subtitle": "AIとデータ分析の力を活用して、作物の収量を最適化し、収穫を予測し、情報に基づいた農業の意思決定を行いましょう。",
+    "getStarted": "始める",
+    "learnMore": "詳細を見る",
+    "trustedBy": "インド全土の10,000人以上の農家に信頼されています"
+  },
+  "features": {
+    "title": "なぜAgroSmartを選ぶのか？",
+    "subtitle": "現代の農家のために特別に設計された強力なツール",
+    "prediction": {
+      "title": "AI作物予測",
+      "description": "土壌、天気、市場条件に基づいて最適な作物の正確な予測を取得します。"
+    },
+    "analytics": {
+      "title": "スマート分析",
+      "description": "直感的なチャートとインサイトで農場データを視覚化し、より良い意思決定を行います。"
+    },
+    "marketplace": {
+      "title": "農業マーケットプレイス",
+      "description": "信頼できる販売者から競争力のある価格で種子、肥料、機器を購入できます。"
+    },
+    "weather": {
+      "title": "天気インサイト",
+      "description": "作物を保護するためのハイパーローカルな天気予報とアラートを取得します。"
+    }
+  },
+  "stats": {
+    "farmers": "アクティブ農家",
+    "predictions": "予測実行数",
+    "accuracy": "精度率",
+    "states": "カバー州"
+  },
+  "testimonials": {
+    "title": "農家の声",
+    "subtitle": "AgroSmartの恩恵を受けた農家の実際のストーリー"
+  },
+  "cta": {
+    "title": "農場を変革する準備はできましたか？",
+    "subtitle": "すでにAgroSmartを使用して収量と収入を増やしている何千もの農家に参加しましょう。",
+    "button": "無料トライアル"
+  },
+  "footer": {
+    "description": "よりスマートで持続可能な農業のためにAI駆動のインサイトで農家を支援します。",
+    "product": "製品",
+    "company": "会社",
+    "support": "サポート",
+    "legal": "法的",
+    "newsletter": "ニュースレター",
+    "newsletterSubtitle": "農業のヒントと更新情報を取得",
+    "emailPlaceholder": "メールを入力",
+    "subscribe": "購読",
+    "copyright": "© 2024 AgroSmart. 全著作権所有。"
+  },
+  "shop": {
+    "title": "農業ショップ",
+    "subtitle": "農場のための高品質な種子、肥料、機器",
+    "searchPlaceholder": "製品を検索...",
+    "allCategories": "すべてのカテゴリ",
+    "addToCart": "カートに追加",
+    "outOfStock": "在庫切れ",
+    "inStock": "在庫あり"
+  },
+  "cart": {
+    "title": "ショッピングカート",
+    "empty": "カートは空です",
+    "continueShopping": "買い物を続ける",
+    "total": "合計",
+    "checkout": "チェックアウト"
+  },
+  "chatbot": {
+    "title": "AgroSmartアシスタント",
+    "placeholder": "農業について何でも聞いてください...",
+    "send": "送信",
+    "greeting": "こんにちは！私はAgroSmartアシスタントです。今日はどのようにお手伝いできますか？"
+  },
+  "voice": {
+    "listening": "聞いています...",
+    "speak": "コマンドを言ってください",
+    "commands": {
+      "goHome": "ホームへ",
+      "goShop": "ショップへ",
+      "goPrediction": "予測へ",
+      "goAnalytics": "分析へ",
+      "goCart": "カートへ",
+      "goContact": "お問い合わせへ"
+    }
+  },
+  "language": {
+    "select": "言語を選択"
+  }
+}

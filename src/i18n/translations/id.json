@@ -1,0 +1,77 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "prediction": "Prediksi Tanaman",
+    "analytics": "Analitik",
+    "shop": "Toko",
+    "cart": "Keranjang",
+    "orders": "Pesanan",
+    "contact": "Kontak",
+    "login": "Masuk",
+    "logout": "Keluar",
+    "getStarted": "Mulai"
+  },
+  "hero": {
+    "title": "Masa Depan Pertanian dengan AI",
+    "subtitle": "Bertani lebih cerdas dan panen lebih banyak dengan wawasan berbasis data dari AgroSmart",
+    "cta": "Mulai Sekarang",
+    "learnMore": "Pelajari Lebih Lanjut"
+  },
+  "features": {
+    "title": "Solusi Pertanian Cerdas",
+    "prediction": "Prediksi Tanaman AI",
+    "predictionDesc": "Gunakan machine learning untuk memprediksi tanaman optimal",
+    "analytics": "Analitik Real-time",
+    "analyticsDesc": "Pantau kinerja pertanian Anda dengan analitik terperinci",
+    "marketplace": "Pasar Pertanian",
+    "marketplaceDesc": "Beli benih dan perlengkapan berkualitas"
+  },
+  "shop": {
+    "title": "Toko Pertanian",
+    "addToCart": "Tambah ke Keranjang",
+    "outOfStock": "Stok Habis",
+    "categories": "Kategori",
+    "all": "Semua"
+  },
+  "cart": {
+    "title": "Keranjang Anda",
+    "empty": "Keranjang Anda kosong",
+    "total": "Total",
+    "checkout": "Checkout",
+    "remove": "Hapus"
+  },
+  "prediction": {
+    "title": "Prediksi Tanaman",
+    "analyze": "Analisis",
+    "result": "Tanaman yang Direkomendasikan",
+    "confidence": "Kepercayaan"
+  },
+  "contact": {
+    "title": "Hubungi Kami",
+    "name": "Nama",
+    "email": "Email",
+    "message": "Pesan",
+    "send": "Kirim Pesan"
+  },
+  "voice": {
+    "title": "Asisten Suara",
+    "listening": "Mendengarkan...",
+    "command": "Perintah Suara",
+    "navigating": "Navigasi ke:",
+    "notRecognized": "Perintah tidak dikenali",
+    "tryAgain": "Coba katakan: \"Pergi ke toko\" atau \"Buka keranjang\"",
+    "notSupported": "Suara tidak didukung",
+    "browserNotSupported": "Browser Anda tidak mendukung pengenalan suara",
+    "error": "Error",
+    "errorMessage": "Pengenalan suara gagal. Silakan coba lagi."
+  },
+  "chatbot": {
+    "title": "Asisten AgroSmart",
+    "placeholder": "Tanyakan apa saja tentang pertanian...",
+    "send": "Kirim",
+    "greeting": "Halo! Saya asisten AgroSmart. Bagaimana saya bisa membantu Anda dengan pertanian hari ini?"
+  },
+  "footer": {
+    "rights": "Hak cipta dilindungi"
+  }
+}

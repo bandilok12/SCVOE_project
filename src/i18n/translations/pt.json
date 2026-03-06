@@ -1,0 +1,107 @@
+{
+  "nav": {
+    "home": "Início",
+    "prediction": "Previsão",
+    "analytics": "Análises",
+    "history": "Histórico",
+    "shop": "Loja",
+    "orders": "Pedidos",
+    "contact": "Contato",
+    "admin": "Admin",
+    "login": "Entrar",
+    "signup": "Cadastrar",
+    "logout": "Sair"
+  },
+  "hero": {
+    "title": "Agricultura Inteligente para um",
+    "titleHighlight": "Amanhã Melhor",
+    "subtitle": "Aproveite o poder da IA e da análise de dados para otimizar seus rendimentos, prever colheitas e tomar decisões agrícolas informadas.",
+    "getStarted": "Começar",
+    "learnMore": "Saiba Mais",
+    "trustedBy": "Confiado por mais de 10.000 agricultores na Índia"
+  },
+  "features": {
+    "title": "Por que escolher AgroSmart?",
+    "subtitle": "Ferramentas poderosas projetadas especificamente para agricultores modernos",
+    "prediction": {
+      "title": "Previsão de Culturas com IA",
+      "description": "Obtenha previsões precisas para as melhores culturas com base no solo, clima e condições de mercado."
+    },
+    "analytics": {
+      "title": "Análises Inteligentes",
+      "description": "Visualize os dados da sua fazenda com gráficos intuitivos para tomar melhores decisões."
+    },
+    "marketplace": {
+      "title": "Mercado Agrícola",
+      "description": "Compre sementes, fertilizantes e equipamentos a preços competitivos de vendedores confiáveis."
+    },
+    "weather": {
+      "title": "Informações Meteorológicas",
+      "description": "Obtenha previsões do tempo hiperlocais e alertas para proteger suas culturas."
+    }
+  },
+  "stats": {
+    "farmers": "Agricultores Ativos",
+    "predictions": "Previsões Realizadas",
+    "accuracy": "Taxa de Precisão",
+    "states": "Estados Cobertos"
+  },
+  "testimonials": {
+    "title": "O que os agricultores dizem",
+    "subtitle": "Histórias reais de agricultores que se beneficiaram do AgroSmart"
+  },
+  "cta": {
+    "title": "Pronto para transformar sua fazenda?",
+    "subtitle": "Junte-se a milhares de agricultores que já usam AgroSmart para aumentar seus rendimentos e renda.",
+    "button": "Teste Gratuito"
+  },
+  "footer": {
+    "description": "Capacitando agricultores com insights baseados em IA para uma agricultura mais inteligente e sustentável.",
+    "product": "Produto",
+    "company": "Empresa",
+    "support": "Suporte",
+    "legal": "Legal",
+    "newsletter": "Newsletter",
+    "newsletterSubtitle": "Receba dicas e atualizações agrícolas",
+    "emailPlaceholder": "Digite seu email",
+    "subscribe": "Inscrever-se",
+    "copyright": "© 2024 AgroSmart. Todos os direitos reservados."
+  },
+  "shop": {
+    "title": "Loja Agrícola",
+    "subtitle": "Sementes, fertilizantes e equipamentos de qualidade para sua fazenda",
+    "searchPlaceholder": "Buscar produtos...",
+    "allCategories": "Todas as Categorias",
+    "addToCart": "Adicionar ao Carrinho",
+    "outOfStock": "Esgotado",
+    "inStock": "Em Estoque"
+  },
+  "cart": {
+    "title": "Carrinho de Compras",
+    "empty": "Seu carrinho está vazio",
+    "continueShopping": "Continuar Comprando",
+    "total": "Total",
+    "checkout": "Finalizar"
+  },
+  "chatbot": {
+    "title": "Assistente AgroSmart",
+    "placeholder": "Pergunte-me qualquer coisa sobre agricultura...",
+    "send": "Enviar",
+    "greeting": "Olá! Sou seu assistente AgroSmart. Como posso ajudá-lo hoje?"
+  },
+  "voice": {
+    "listening": "Ouvindo...",
+    "speak": "Fale um comando",
+    "commands": {
+      "goHome": "Ir para início",
+      "goShop": "Ir para loja",
+      "goPrediction": "Ir para previsão",
+      "goAnalytics": "Ir para análises",
+      "goCart": "Ir para carrinho",
+      "goContact": "Ir para contato"
+    }
+  },
+  "language": {
+    "select": "Selecionar Idioma"
+  }
+}
